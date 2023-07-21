@@ -6776,13 +6776,17 @@ function create_fragment$c(ctx) {
 					}
 				},
 				site_nav: [
-					{ "link": { "url": "/", "label": "About" } },
 					{
-						"link": { "url": "/", "label": "Product" }
+						"link": { "url": "/about", "label": "About" }
 					},
-					{ "link": { "url": "/", "label": "Why" } },
 					{
-						"link": { "url": "/", "label": "Pricing" }
+						"link": { "url": "/product", "label": "Product" }
+					},
+					{
+						"link": { "url": "/why", "label": "Why" }
+					},
+					{
+						"link": { "url": "/pricing", "label": "Pricing" }
 					}
 				],
 				cta: [
