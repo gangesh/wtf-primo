@@ -4905,6 +4905,7 @@ function create_fragment$6(ctx) {
 					}
 				},
 				site_nav: [
+					{ "link": { "label": "Home", "url": "/" } },
 					{
 						"link": { "url": "/about", "label": "About" }
 					},
