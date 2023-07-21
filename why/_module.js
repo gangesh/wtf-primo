@@ -5031,7 +5031,7 @@ function create_fragment$7(ctx) {
 	component_0 = new Component({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
@@ -5042,17 +5042,17 @@ function create_fragment$7(ctx) {
 	component_1 = new Component$2({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
 				},
 				logo: {
+					"size": "14",
 					"image": {
 						"alt": "",
 						"url": "https://qmamxalndcwhdujyrrha.supabase.co/storage/v1/object/public/images/1ead3ef9-4fa8-4b79-9c60-c7d4bfd36989/new-wtf-logo.png1638110782916"
-					},
-					"size": "14"
+					}
 				},
 				site_nav: [
 					{ "link": { "url": "/", "label": "About" } },
@@ -5075,7 +5075,7 @@ function create_fragment$7(ctx) {
 	component_2 = new Component$3({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
@@ -5096,7 +5096,7 @@ function create_fragment$7(ctx) {
 	component_3 = new Component$4({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
@@ -5111,7 +5111,7 @@ function create_fragment$7(ctx) {
 	component_4 = new Component$5({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
@@ -5140,7 +5140,7 @@ function create_fragment$7(ctx) {
 	component_5 = new Component$6({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
@@ -5182,7 +5182,7 @@ function create_fragment$7(ctx) {
 	component_6 = new Component$7({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "Some description can go here",
 					"src": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
